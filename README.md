@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m always looking to grow as a software engineer.
+🌱 I’m always learning and growing as a software engineer.
 <br/>
 💬 Ask me about anything and everything.
 <br/>
