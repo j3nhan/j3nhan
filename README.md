@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br/>
 💬 Ask me about anything and everything.
 <br/>
-📫 Where to Find Me
+📫 Where to Find Me:
 <p>
   <a href="https://www.linkedin.com/in/jennynhan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
